@@ -1,0 +1,46 @@
+Home,Away,Prediction,Home Win Prob,Draw Prob,Away Win Prob,Home Points,Away Points
+Army West Point,American,Army West Point Win,81.0,7.5,11.5,3,0
+American,BU,Draw,4.0,66.0,30.0,1,1
+American,Bucknell,Bucknell Win,2.5,5.5,92.0,0,3
+Colgate,American,Draw,28.5,47.0,24.5,1,1
+American,Holy Cross,American Win,44.5,15.0,40.5,3,0
+American,Lafayette,Lafayette Win,13.0,3.0,84.0,0,3
+Lehigh,American,American Win,10.0,4.0,86.0,0,3
+American,Loyola,Loyola Win,22.0,30.5,47.5,0,3
+American,Navy,Navy Win,8.0,29.0,63.0,0,3
+BU,Army West Point,BU Win,93.0,2.0,5.0,3,0
+Bucknell,Army West Point,Army West Point Win,19.0,0.5,80.5,0,3
+Army West Point,Colgate,Army West Point Win,64.5,18.5,17.0,3,0
+Army West Point,Holy Cross,Holy Cross Win,38.0,6.0,56.0,0,3
+Lafayette,Army West Point,Army West Point Win,17.5,19.0,63.5,0,3
+Army West Point,Lehigh,Army West Point Win,88.0,5.5,6.5,3,0
+Loyola,Army West Point,Loyola Win,90.5,3.0,6.5,3,0
+Army West Point,Navy,Army West Point Win,92.0,8.0,0.0,3,0
+Bucknell,BU,BU Win,37.0,18.0,45.0,0,3
+Colgate,BU,BU Win,2.5,25.0,72.5,0,3
+Holy Cross,BU,BU Win,1.0,27.0,72.0,0,3
+BU,Lafayette,BU Win,59.5,36.5,4.0,3,0
+Lehigh,BU,BU Win,15.0,34.5,50.5,0,3
+Loyola,BU,Draw,10.5,86.5,3.0,1,1
+Navy,BU,BU Win,19.5,24.5,56.0,0,3
+Bucknell,Colgate,Bucknell Win,96.0,1.0,3.0,3,0
+Holy Cross,Bucknell,Bucknell Win,14.5,9.5,76.0,0,3
+Bucknell,Lafayette,Bucknell Win,64.0,21.5,14.5,3,0
+Bucknell,Lehigh,Bucknell Win,95.0,1.5,3.5,3,0
+Bucknell,Loyola,Bucknell Win,94.0,4.5,1.5,3,0
+Navy,Bucknell,Bucknell Win,3.5,0.5,96.0,0,3
+Colgate,Holy Cross,Draw,38.5,40.0,21.5,1,1
+Lafayette,Colgate,Draw,8.0,61.0,31.0,1,1
+Colgate,Lehigh,Draw,21.5,70.0,8.5,1,1
+Colgate,Loyola,Draw,4.5,89.0,6.5,1,1
+Colgate,Navy,Draw,15.0,75.5,9.5,1,1
+Holy Cross,Lafayette,Holy Cross Win,67.5,11.0,21.5,3,0
+Holy Cross,Lehigh,Draw,29.0,48.5,22.5,1,1
+Loyola,Holy Cross,Loyola Win,53.0,15.0,32.0,3,0
+Holy Cross,Navy,Draw,16.5,56.0,27.5,1,1
+Lafayette,Lehigh,Draw,18.5,58.0,23.5,1,1
+Lafayette,Loyola,Draw,6.0,83.0,11.0,1,1
+Lafayette,Navy,Draw,5.5,82.5,12.0,1,1
+Lehigh,Loyola,Lehigh Win,53.5,12.0,34.5,3,0
+Navy,Lehigh,Lehigh Win,38.0,8.0,54.0,0,3
+Navy,Loyola,Navy Win,89.0,3.5,7.5,3,0
